@@ -1,4 +1,4 @@
-﻿namespace Set2_ex6
+﻿namespace Set2_ex9
 {
     internal class Program
     {
